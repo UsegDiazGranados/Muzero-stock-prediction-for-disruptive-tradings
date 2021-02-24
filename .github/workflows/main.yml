@@ -39,7 +39,7 @@ jobs:
 # Runs a set of commands using the runners shell(((00)))
 
 # Lost the Muzero math; redo it better ((remember your objective function).
-# Use this as a notepad in order to transfer the Muzero math
+# Use this as a notepad in order to transfer the Muzero math. 
 
 
 
@@ -64,5 +64,6 @@ jobs:
 
 
 # ...... ...... ......
+# xtrmnt..
 
 
